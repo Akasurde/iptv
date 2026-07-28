@@ -1,5 +1,24 @@
 #EXTM3U
-
+#EXTINF:-1,US Paramount Network
+http://1tvnow.icu:8080/148811/152774/16201
+#EXTINF:-1,24/7 TOM AND JERRY
+http://1tvnow.icu:8080/148811/152774/325218
+#EXTINF:-1,24/7 X-MEN CARTOONS
+http://1tvnow.icu:8080/148811/152774/325214
+#EXTINF:-1,24/7 THE FLINTSTONES
+http://1tvnow.icu:8080/148811/152774/325224
+#EXTINF:-1,24/7 THE BATMAN
+http://1tvnow.icu:8080/148811/152774/325225
+#EXTINF:-1,24/7 TEEN TITANS GO!
+http://1tvnow.icu:8080/148811/152774/325226
+#EXTINF:-1,24/7 SCOOBY-DOO CLASSIC
+http://1tvnow.icu:8080/148811/152774/325235
+#EXTINF:-1,24/7 SCOOBY-DOO
+http://1tvnow.icu:8080/148811/152774/325236
+#EXTINF:-1,24/7 SPONGEBOB SQUAREPANTS
+http://1tvnow.icu:8080/148811/152774/325237
+#EXTINF:-1,24/7 PINKY AND THE BRAIN
+http://1tvnow.icu:8080/148811/152774/325244
 #EXTINF:-1 tvg-id="BLp6YyzURYFuAK" tvg-name="9X Jalwa" group-title="IN" tvg-language="HIN",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 #EXTINF:-1 tvg-id="YjfGvP98XO19wA" tvg-name="9X Jhakaas" group-title="IN" tvg-language="MAR",9X Jhakaas
