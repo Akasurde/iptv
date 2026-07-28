@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="HistoryTV18HD" group-title="IN" tvg-language="ENG",HistoryTV18HD
-https://raw.githubusercontent.com/Akasurde/iptv/refs/heads/master/streams/HistoryTV18HD.m3u8
-#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="AnimalPlanetHD" group-title="IN" tvg-language="ENG",AnimalPlanetHD
-https://raw.githubusercontent.com/Akasurde/iptv/refs/heads/master/streams/AnimalPlanetHD.m3u8
-#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="CartoonNetworkHD" group-title="IN" tvg-language="ENG",CartoonNetworkHD
-https://raw.githubusercontent.com/Akasurde/iptv/refs/heads/master/streams/CartoonNetworkHD.m3u8
-#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="DiscoveryHD" group-title="IN" tvg-language="ENG",DiscoveryHD
-https://github.com/amazeyourself/adaptive-streams/blob/main/streams/in/MaxDigitalTV/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="DiscoveryScience" group-title="IN" tvg-language="ENG",DiscoveryScience
-https://github.com/amazeyourself/adaptive-streams/blob/main/streams/in/MaxDigitalTV/DiscoveryScience.m3u8
-#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="TLCHD" group-title="IN" tvg-language="ENG",TLCHD
-https://github.com/amazeyourself/adaptive-streams/blob/main/streams/in/MaxDigitalTV/TLCHD.m3u8
+
 #EXTINF:-1 tvg-id="BLp6YyzURYFuAK" tvg-name="9X Jalwa" group-title="IN" tvg-language="HIN",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 #EXTINF:-1 tvg-id="YjfGvP98XO19wA" tvg-name="9X Jhakaas" group-title="IN" tvg-language="MAR",9X Jhakaas
