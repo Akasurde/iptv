@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="HistoryTV18HD" group-title="IN" tvg-language="ENG",HistoryTV18HD
+https://raw.githubusercontent.com/Akasurde/iptv/refs/heads/master/streams/HistoryTV18HD.m3u8
+#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="AnimalPlanetHD" group-title="IN" tvg-language="ENG",AnimalPlanetHD
+https://raw.githubusercontent.com/Akasurde/iptv/refs/heads/master/streams/AnimalPlanetHD.m3u8
+#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="CartoonNetworkHD" group-title="IN" tvg-language="ENG",CartoonNetworkHD
+https://raw.githubusercontent.com/Akasurde/iptv/refs/heads/master/streams/CartoonNetworkHD.m3u8
+#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="DiscoveryHD" group-title="IN" tvg-language="ENG",DiscoveryHD
+https://github.com/amazeyourself/adaptive-streams/blob/main/streams/in/MaxDigitalTV/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="DiscoveryScience" group-title="IN" tvg-language="ENG",DiscoveryScience
+https://github.com/amazeyourself/adaptive-streams/blob/main/streams/in/MaxDigitalTV/DiscoveryScience.m3u8
+#EXTINF:-1 tvg-id="s2vrvZubgaQTDt" tvg-name="TLCHD" group-title="IN" tvg-language="ENG",TLCHD
+https://github.com/amazeyourself/adaptive-streams/blob/main/streams/in/MaxDigitalTV/TLCHD.m3u8
 #EXTINF:-1 tvg-id="BLp6YyzURYFuAK" tvg-name="9X Jalwa" group-title="IN" tvg-language="HIN",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 #EXTINF:-1 tvg-id="YjfGvP98XO19wA" tvg-name="9X Jhakaas" group-title="IN" tvg-language="MAR",9X Jhakaas
@@ -13,14 +25,6 @@ https://cdn-2.pishow.tv/live/1613/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8
 #EXTINF:-1 tvg-id="ULmI9rRZV9Z84b" tvg-name="22Scope News" group-title="IN" tvg-language="HIN",22Scope News
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="swstQbcNaTrPaK" tvg-name="24 News" group-title="IN" tvg-language="MAL",24 News
-https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-#EXTINF:-1 tvg-id="swstQbcNaTrPaK" tvg-name="24 News" group-title="IN" tvg-language="MAL",24 News (alt 1)
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="swstQbcNaTrPaK" tvg-name="24 News" group-title="IN" tvg-language="MAL",24 News (alt 2)
-https://www.youtube-nocookie.com/embed/1wECsnGZcfc
-#EXTINF:-1 tvg-id="v5S3VQc3uYprHf" tvg-name="99TV Telugu" group-title="IN" tvg-language="TEL",99TV Telugu
-https://www.youtube-nocookie.com/embed/qbemrz1bs1Y
 #EXTINF:-1 tvg-id="ICy3Xgo6y92b0g" tvg-name="Aaj Tak" group-title="IN" tvg-language="HIN",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="ICy3Xgo6y92b0g" tvg-name="Aaj Tak" group-title="IN" tvg-language="HIN",Aaj Tak (alt 1)
